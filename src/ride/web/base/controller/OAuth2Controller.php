@@ -11,7 +11,7 @@ class OAuth2Controller extends AbstractController {
 
     /**
      * Action to manage OAuth authorization
-     * @param ride\library\security\SecurityManager $securityManager Instance
+     * @param \ride\library\security\SecurityManager $securityManager Instance
      * of the security manager
      * @param string $authenticator Id of the OAuth2Authenticator dependency
      * @return null

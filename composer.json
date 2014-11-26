@@ -2,7 +2,7 @@
     "name": "ride/web-security-oauth",
     "description": "OAuth security integration for a Ride web application.",
     "license": "MIT",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "authors": [
         {
             "name": "Joris Vandeweerd",
